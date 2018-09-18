@@ -7,14 +7,12 @@
 
 table {
     background: grey;
-    /* #ddd #fff */
     width: 40%;
     height: 180px;
     table-layout: fixed;
     border-collapse: collapse;
     font-family: sans-serif;
-    box-shadow: 1px 8px 20px 1px #ddd;
-  
+    box-shadow: 1px 8px 20px 1px #ddd; 
 }
 
 caption {
@@ -22,13 +20,11 @@ caption {
     font-size: 30px;
     color: #b22222;
     text-align: left;
-
 }
 
 tr {
     background: #fff;
     border: none;
-
 }
 
 th {
